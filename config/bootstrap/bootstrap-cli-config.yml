@@ -67,10 +67,10 @@ bootstrap:
               - cdf-group: cdf:all:read
                 idp-source-id: 7532eba0-93f0-4ed1-8665-9082504f8aa4
                 idp-source-name: bootcamp-29-test-all-read
-              - cdf-group: cdf:uc:001:0ee:read
+              - cdf-group: cdf:uc:001:oee:read
                 idp-source-id: f4c6a982-adde-4284-afa2-a8ada378856f
                 idp-source-name: bootcamp-29-test-uc-001-oee-read
-              - cdf-group: cdf:uc:001:0ee:owner
+              - cdf-group: cdf:uc:001:oee:owner
                 idp-source-id: 8a7bd463-ad52-426a-b13f-bca0db2bd543
                 idp-source-name: bootcamp-29-test-uc-001-oee-owner
 
@@ -85,10 +85,10 @@ bootstrap:
               - cdf-group: cdf:all:read
                 idp-source-id: cf6ab838-48e1-4d3a-bf2e-375cec16e9c8
                 idp-source-name: bootcamp-29-prod-all-read
-              - cdf-group: cdf:uc:001:0ee:read
+              - cdf-group: cdf:uc:001:oee:read
                 idp-source-id: 0c1223ae-4d31-4f5b-8a3c-4a73ebff9da7
                 idp-source-name: bootcamp-29-prod-uc-001-oee-read
-              - cdf-group: cdf:uc:001:0ee:owner
+              - cdf-group: cdf:uc:001:oee:owner
                 idp-source-id: f959eb66-05eb-468d-9d1c-cc2c61e6a84b
                 idp-source-name: bootcamp-29-prod-uc-001-oee-owner
 
